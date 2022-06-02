@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "focustime",
+    "slug": "snack-c3bd9bd3-3dca-4fd2-b98f-338907128b99",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anastasiiachaplits.snackc3bd9bd33dca4fd2b98f338907128b99"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.anastasiiachaplits.snackc3bd9bd33dca4fd2b98f338907128b99"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
